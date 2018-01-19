@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "atob": "^2.0.3",
+    "btoa": "^1.1.2",
+    "cors": "^2.8.4",
+    "country-code-emoji": "^0.0.1",
+    "express": "^4.16.2",
+    "fiftyonedegreescore": "3.2.18-dev",
+    "gists": "^1.0.0",
+    "ipware": "^1.0.0",
+    "lowdb": "^1.0.0",
+    "request-json": "^0.6.2"
+  }
+}
